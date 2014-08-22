@@ -2,14 +2,14 @@ package com.example.activity_two_part3;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.View; 
+import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
-	Button button1,button2,btn3;
+	Button button1,button2;
 	
 	
 	@Override
